@@ -1,2 +1,2 @@
-# Aging_Oligos_Microglia
-Transcriptomics analysis of oligodendrocytes and microglia in white matter aging
+# Transcriptomics characterization of oligodendrocytes and microglia in white matter aging
+Scripts and datasets from the manuscript
