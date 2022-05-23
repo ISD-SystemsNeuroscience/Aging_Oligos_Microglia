@@ -1,3 +1,4 @@
+source("Loadings.R")
 # > RPCA Integration Oligo RagKO + WT 24 mo ####################################################################
 # Prepare the list of Seurat objects to integrate
 oligo.RagKO_1 <- readRDS("Sobj_Rag1KO_Batch1_Oligo.rds")
